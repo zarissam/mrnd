@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Environments
+.env
+venv/
+.venv/
+
+# Docker
+*.log
+*.pid
+
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
